@@ -1,2 +1,31 @@
-# first-repo
-The kickstart...
+# 👋 Hi, I’m Prithika
+
+## 🎓 About Me
+I am currently a student majoring in Computer Applications at **Girijananda Chowdhury University**. I am passionate about technology and always eager to learn new skills that blend creativity with computing.
+
+## 💻 Programming Skills
+- **Languages:** Python, C, C++
+- **Web Development:** Website creation and designing
+- **Media:** Video making and editing
+
+## 🎨 Interests & Hobbies
+- Public speaking
+- Dancing
+- Singing
+- Painting
+- Crafting
+- Researching
+
+## 🌱 What I’m Currently Learning
+- Advanced programming concepts
+- Creative website and UI/UX design
+- Modern video editing techniques
+
+## 📫 How to Reach Me
+Instagram - @prithikadey_
+
+
+---
+
+> *“Creativity meets technology!”*
+
